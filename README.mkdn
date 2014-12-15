@@ -1,0 +1,27 @@
+Welcome to AOSPU
+================
+
+
+Getting Started
+---------------
+
+To get started with AOSPU, you'll need to get familiar with
+[Git and Repo](http://source.android.com/download/using-repo).
+
+Please note that this tree is for the Python3 bringup, and is pure AOSP
+
+To initialize your local repository using the AOSPU trees, use this command:
+
+	repo init -u https://github.com/AOSPU/manifest.git -b android-5.0/py3
+
+
+Then sync up with this command:
+
+	repo sync
+
+
+Submitting Patches
+------------------
+
+We're open source, and patches are always welcome!
+Currently we do not have a Code Review system, so feel free to just send pull requests.
