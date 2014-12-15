@@ -10,7 +10,7 @@
            sync-j="4" />
 
   <project path="manifest" name="manifest" remote="aospu" revision="android-5.0/py3" />
-  <project path="build" name="platform/build" groups="pdk,tradefed" >
+  <project path="build" name="build" groups="pdk,tradefed" remote="aospu" revision="android-5.0/py3" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
