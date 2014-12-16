@@ -80,36 +80,36 @@
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
   <project path="external/chromium_org" name="external_chromium_org" remote="aospu" revision="android-5.0/py3" />
-  <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
-  <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
-  <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" />
-  <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" />
-  <project path="external/chromium_org/third_party/brotli/src" name="platform/external/chromium_org/third_party/brotli/src" />
-  <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" />
-  <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" />
-  <project path="external/chromium_org/third_party/icu" name="platform/external/chromium_org/third_party/icu" />
-  <project path="external/chromium_org/third_party/leveldatabase/src" name="platform/external/chromium_org/third_party/leveldatabase/src" />
-  <project path="external/chromium_org/third_party/libaddressinput/src" name="platform/external/chromium_org/third_party/libaddressinput/src" />
-  <project path="external/chromium_org/third_party/libjingle/source/talk" name="platform/external/chromium_org/third_party/libjingle/source/talk" />
-  <project path="external/chromium_org/third_party/libjpeg_turbo" name="platform/external/chromium_org/third_party/libjpeg_turbo" />
-  <project path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" />
-  <project path="external/chromium_org/third_party/libphonenumber/src/resources" name="platform/external/chromium_org/third_party/libphonenumber/src/resources" />
-  <project path="external/chromium_org/third_party/libsrtp" name="platform/external/chromium_org/third_party/libsrtp" />
-  <project path="external/chromium_org/third_party/libvpx" name="platform/external/chromium_org/third_party/libvpx" />
-  <project path="external/chromium_org/third_party/libyuv" name="platform/external/chromium_org/third_party/libyuv" />
-  <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" />
-  <project path="external/chromium_org/third_party/openmax_dl" name="platform/external/chromium_org/third_party/openmax_dl" />
-  <project path="external/chromium_org/third_party/openssl" name="platform/external/chromium_org/third_party/openssl" />
-  <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" />
-  <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" />
-  <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" />
-  <project path="external/chromium_org/third_party/skia" name="platform/external/chromium_org/third_party/skia" />
-  <project path="external/chromium_org/third_party/smhasher/src" name="platform/external/chromium_org/third_party/smhasher/src" />
-  <project path="external/chromium_org/third_party/usrsctp/usrsctplib" name="platform/external/chromium_org/third_party/usrsctp/usrsctplib" />
-  <project path="external/chromium_org/third_party/webrtc" name="platform/external/chromium_org/third_party/webrtc" />
-  <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" />
-  <project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" />
-  <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" />
+  <project path="external/chromium_org/sdch/open-vcdiff" name="external_chromium_org_sdch_open-vcdiff" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/testing/gtest" name="external_chromium_org_testing_gtest" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/WebKit" name="external_chromium_org_third_party_WebKit" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/angle" name="external_chromium_org_third_party_angle" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/brotli/src" name="external_chromium_org_third_party_brotli_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="external_chromium_org_third_party_eyesfree_src_android_java_src_com_googlecode_eyesfree_braille" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/freetype" name="external_chromium_org_third_party_freetype" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/icu" name="external_chromium_org_third_party_icu" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/leveldatabase/src" name="external_chromium_org_third_party_leveldatabase_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libaddressinput/src" name="external_chromium_org_third_party_libaddressinput_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libjingle/source/talk" name="external_chromium_org_third_party_libjingle_source_talk" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libjpeg_turbo" name="external_chromium_org_third_party_libjpeg_turbo" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" name="external_chromium_org_third_party_libphonenumber_src_phonenumbers" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libphonenumber/src/resources" name="external_chromium_org_third_party_libphonenumber_src_resources" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libsrtp" name="external_chromium_org_third_party_libsrtp" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libvpx" name="external_chromium_org_third_party_libvpx" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/libyuv" name="external_chromium_org_third_party_libyuv" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/mesa/src" name="external_chromium_org_third_party_mesa_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/openmax_dl" name="external_chromium_org_third_party_openmax_dl" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/openssl" name="external_chromium_org_third_party_openssl" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/opus/src" name="external_chromium_org_third_party_opus_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/ots" name="external_chromium_org_third_party_ots" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/sfntly/cpp/src" name="external_chromium_org_third_party_sfntly_cpp_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/skia" name="external_chromium_org_third_party_skia" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/smhasher/src" name="external_chromium_org_third_party_smhasher_src" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/usrsctp/usrsctplib" name="external_chromium_org_third_party_usrsctp_usrsctplib" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/webrtc" name="external_chromium_org_third_party_webrtc" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="external_chromium_org_third_party_yasm_source_patched-yasm" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/tools/grit" name="external_chromium_org_tools_grit" remote="aospu" revision="android-5.0/py3" />
+  <project path="external/chromium_org/tools/gyp" name="external_chromium_org_tools_gyp" remote="aospu" revision="android-5.0/py3" />
   <project path="external/chromium_org/v8" name="external_chromium_org_v8" remote="aospu" revision="android-5.0/py3" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" />
   <project path="external/cmockery" name="platform/external/cmockery" />
